@@ -1,5 +1,5 @@
 # Predictive Model For Collision Detection
-This is a demonstration of collision-detection and driving using a feedforward neural network from Interactive Robotics Lab at Arizona State University.
+This is a demonstration of collision-detection and driving using a feedforward neural network.
 
 
 ## Requirements
